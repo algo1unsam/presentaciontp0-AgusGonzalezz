@@ -1,26 +1,16 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
-
-
-## Estudiante: Nombre estudiante
+## Estudiante: Agustin Gonzalez
 
 Descripción
 
-Foto de mi persona:
+Hola me llamo Agustin Gonzalez, tengo 20 años, actualmente estoy en la carrera de Tecnicatura de Redes Informáticas. Me inscribí a esta carrera ya que en secundario tuve una materia en que se tocaba algunos de estos temas y me llamo la atención.
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+Foto:
 
-Diente de Leon
+![Imagen de WhatsApp 2023-08-15 a las 20 15 24](https://github.com/algo1unsam/presentaciontp0-AgusGonzalezz/assets/142355138/5d9e9168-426b-47cd-8e93-d303a6cba78b)
 
-------
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
+
+
 
